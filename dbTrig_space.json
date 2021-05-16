@@ -1,0 +1,75 @@
+
+{
+  "listBeam": [
+      {
+        "name": "Space to basement beam",
+        "pos": {"x": 2, "y":1.6, "z":2},
+        "radius": 2
+      }
+  ],
+  "listVid": [
+    {
+      "name": "Main",
+      "src": "https://youtu.be/hjyIY-_bHXk",
+      "src_thumb": "https://stack2038-assets.thenewserenity.com/files/5f554239-0309-4361-a4f9-ed18dfe2d7d4.png",
+      "pos": {"x": 0, "y":1.7, "z":9.90},
+      "rot": {"x": -180, "y":0, "z":-180},
+      "scale": {"x": 10, "y":10, "z":10},
+      "radius": 15
+    },
+    {
+      "name": "R1a",
+      "src": "https://youtu.be/oV7b97oF9SI",
+      "src_thumb": "https://stack2038-assets.thenewserenity.com/files/5f554239-0309-4361-a4f9-ed18dfe2d7d4.png",
+      "pos": {"x": 13.4, "y":1.7, "z":-9.3},
+      "rot": {"x": 0, "y":-90, "z":0},
+      "scale": {"x": 2, "y":2, "z":2},
+      "radius": 4
+    },
+    {
+      "name": "R1b",
+      "src": "https://youtu.be/2atOiEBYyDk",
+      "src_thumb": "https://stack2038-assets.thenewserenity.com/files/5f554239-0309-4361-a4f9-ed18dfe2d7d4.png",
+      "pos": {"x": 6.6, "y":1.7, "z":-14.2},
+      "rot": {"x": 0, "y":90, "z":0},
+      "scale": {"x": 1.5, "y":1.5, "z":1.5},
+      "radius": 4
+    },
+    {
+      "name": "R2",
+      "src": "https://youtu.be/UlbrT9nuAoM",
+      "src_thumb": "https://stack2038-assets.thenewserenity.com/files/5f554239-0309-4361-a4f9-ed18dfe2d7d4.png",
+      "pos": {"x": 11.6, "y":1.7, "z":-21.1},
+      "rot": {"x": 0, "y":0, "z":0},
+      "scale": {"x": 1.5, "y":1.5, "z":1.5},
+      "radius": 4
+    },
+    {
+      "name": "L1a",
+      "src": "https://youtu.be/J0RA55zbzT8",
+      "src_thumb": "https://stack2038-assets.thenewserenity.com/files/5f554239-0309-4361-a4f9-ed18dfe2d7d4.png",
+      "pos": {"x": -6.60, "y":1.7, "z":-14.00},
+      "rot": {"x": 0, "y":-90, "z":0},
+      "scale": {"x": 1.5, "y":1.5, "z":1.5},
+      "radius": 4
+    },
+    {
+      "name": "L1b",
+      "src": "https://youtu.be/5mQ_77ePEHU",
+      "src_thumb": "https://stack2038-assets.thenewserenity.com/files/5f554239-0309-4361-a4f9-ed18dfe2d7d4.png",
+      "pos": {"x": -10.10, "y":1.7, "z":-6.30},
+      "rot": {"x": -180, "y":0, "z":-180},
+      "scale": {"x": 2, "y":2, "z":2},
+      "radius": 4
+    },
+    {
+      "name": "L2",
+      "src": "https://youtu.be/hSKQEoArEHs",
+      "src_thumb": "https://stack2038-assets.thenewserenity.com/files/5f554239-0309-4361-a4f9-ed18dfe2d7d4.png",
+      "pos": {"x": -8.4, "y":1.7, "z":-21.1},
+      "rot": {"x": 0, "y":0, "z":0},
+      "scale": {"x": 1.5, "y":1.5, "z":1.5},
+      "radius": 4
+    }
+  ]
+}
